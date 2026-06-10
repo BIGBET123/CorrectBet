@@ -1,11 +1,5 @@
-// ========================================
-// BIGBET - Professional Sports Betting Website
-// JavaScript Functionality
-// ========================================
 
-// Sample Predictions Data
-const predictionsData = [
-    {
+    
         id: 1,
         match: "Manchester United vs Liverpool",
         time: "20:00 UTC",
